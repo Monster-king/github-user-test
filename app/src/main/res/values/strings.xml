@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github Test App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="users_fragment_label">Users List</string>
+    <string name="details_fragment_label">Users Detail</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="no_description" translatable="false" />
+
+    <string name="followers_text">Followers: %d</string>
+    <string name="following_text">Following: %d</string>
+    <string name="created_date_text">Account created in %s</string>
+    <string name="reload">Reload</string>
+</resources>
